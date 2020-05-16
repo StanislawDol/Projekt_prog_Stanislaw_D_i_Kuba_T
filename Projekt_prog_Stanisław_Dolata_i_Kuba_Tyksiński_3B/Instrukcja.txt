@@ -1,0 +1,3 @@
+W pliku Wiadomość Wpisujemy tekst, który chcemy zakodować lub odkodować.
+Następnie uruchamiamy program i w pliku wynikowym bedzie znajdować się 
+zaszyfrowana/odszyfrowana wiadomosc.
